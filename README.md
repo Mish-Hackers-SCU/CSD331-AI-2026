@@ -6,7 +6,7 @@ This section provides quick access to the main topics and concepts covered in th
 | :--- | :--- |
 | [**🚀 NumPy Essentials**](#-numpy-essentials) | Array creation, shaping, statistical functions, and conditional assignment. |
 | [**📊 Pandas Data Manipulation**](#-pandas-data-manipulation) | DataFrame creation, indexing (`loc`/`iloc`), cleaning (`fillna`), and transformation (`apply`, `get_dummies`). |
-| [**🗃️ NumPy Array vs. Pandas Series**](#-numpy-array-vs-pandas-series) | Comparison of 1D data structures (ndarray and Series) and their use cases. |
+| [**🗃️ NumPy Array vs. Pandas Series**](#%EF%B8%8F-numpy-array-vs-pandas-series) | Comparison of 1D data structures (ndarray and Series) and their use cases. |
 | **Machine Learning Concepts (Supervised & Unsupervised)** | Core algorithms and techniques for model building. |
 |       **Supervised Learning** | Algorithms trained on labeled data. |
 |           ➡️ [**Regression Analysis**](#-regression-analysis-modeling-relationships) | Predicting continuous values (The core section on this topic). |

@@ -1,3 +1,7 @@
+![](msh_icon.png)
+
+#𝔇𝔢𝔰𝔱𝔯𝔬𝔶 𝔱𝔥𝔢 𝔑𝔬𝔯𝔪𝔞𝔩#
+------
 ## 🧭 CSD331 AI Practical Guide
 
 This section provides quick access to the main topics and concepts covered in this revision guide. Click on any link to jump directly to that section.

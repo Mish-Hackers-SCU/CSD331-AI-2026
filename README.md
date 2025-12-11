@@ -16,6 +16,7 @@ This section provides quick access to the main topics and concepts covered in th
 |       **Unsupervised Learning** | Algorithms for pattern discovery in unlabeled data. |
 |           ➡️ [**Clustering**](#-unsupervised-learning-clustering-algorithms) | Grouping similar data points. |
 |               *K-means, Hierarchical* | Centroids, Dendograms. |
+|               *[*Principle Component Analysis*](https://www.geeksforgeeks.org/data-analysis/principal-component-analysis-pca/) | Dimensionality Reduction. |
 
 -----
 

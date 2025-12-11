@@ -4,17 +4,17 @@ This section provides quick access to the main topics and concepts covered in th
 
 | Chapter Title | Content Focus |
 | :--- | :--- |
-| [**🚀 NumPy Essentials**](#numpy-essentials) | Array creation, shaping, statistical functions, and conditional assignment. |
-| [**📊 Pandas Data Manipulation**](#pandas-data-manipulation) | DataFrame creation, indexing (`loc`/`iloc`), cleaning (`fillna`), and transformation (`apply`, `get_dummies`). |
-| [**🗃️ NumPy Array vs. Pandas Series**](#numpy-array-vs-pandas-series) | Comparison of 1D data structures (ndarray and Series) and their use cases. |
+| [**🚀 NumPy Essentials**](#-numpy-essentials) | Array creation, shaping, statistical functions, and conditional assignment. |
+| [**📊 Pandas Data Manipulation**](#-pandas-data-manipulation) | DataFrame creation, indexing (`loc`/`iloc`), cleaning (`fillna`), and transformation (`apply`, `get_dummies`). |
+| [**🗃️ NumPy Array vs. Pandas Series**](#-numpy-array-vs-pandas-series) | Comparison of 1D data structures (ndarray and Series) and their use cases. |
 | **Machine Learning Concepts (Supervised & Unsupervised)** | Core algorithms and techniques for model building. |
 |       **Supervised Learning** | Algorithms trained on labeled data. |
-|           ➡️ [**Regression Analysis**](#regression-analysis-modeling-relationships) | Predicting continuous values (The core section on this topic). |
+|           ➡️ [**Regression Analysis**](#-regression-analysis-modeling-relationships) | Predicting continuous values (The core section on this topic). |
 |               _Linear, Poly, Multi Regression_ | Detailed breakdown of regression models, $R^2$, and residuals. |
-|           ➡️ [**Classification**](#classification-algorithms-predicting-categories) | Predicting discrete categorical labels. |
+|           ➡️ [**Classification**](#-classification-algorithms-predicting-categories) | Predicting discrete categorical labels. |
 |               *Decision Tree, Random Forest, KNN* | Gini impurity, Majority Voting, Distance-based Classification and N-neighbors. |
 |       **Unsupervised Learning** | Algorithms for pattern discovery in unlabeled data. |
-|           ➡️ [**Clustering**](#unsupervised-learning-clustering-algorithms) | Grouping similar data points. |
+|           ➡️ [**Clustering**](#-unsupervised-learning-clustering-algorithms) | Grouping similar data points. |
 |               *K-means, Hierarchical* | Centroids, Dendograms. |
 
 -----

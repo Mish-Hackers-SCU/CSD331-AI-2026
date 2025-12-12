@@ -945,7 +945,7 @@ plt.grid(True)
 plt.show()
 ```
 
-
+**Output:**
 ![image-tag: code-generated-image-0-1765515759892366033](code%20outputs/1.png)
 
 **🇪🇬 بالمصري:**
@@ -1024,8 +1024,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-
-[image-tag: code-generated-image-0-1765516053460880449](code%20outputs/2.png)
+**Output:**
+![image-tag: code-generated-image-0-1765516053460880449](code%20outputs/2.png)
 
 **🇪🇬 بالمصري:**
 
@@ -1116,8 +1116,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-
-[image-tag: code-generated-image-0-1765516255835646822](code%20outputs/res.png)
+**Output:**
+![image-tag: code-generated-image-0-1765516255835646822](code%20outputs/res.png)
 
 **🇪🇬 بالمصري:**
 
@@ -1239,7 +1239,6 @@ The output shows the model's prediction on a small test set. **Accuracy** is the
 Random Forest is an **ensemble learning** method built on top of Decision Trees. It mitigates the overfitting tendency of a single Decision Tree by constructing multiple trees and averaging their results.
 
 
-<img width="1358" height="836" alt="image" src="https://github.com/user-attachments/assets/8ba8d58f-46c5-49e9-a43a-3a6c5b25fd8f" />
 ![img.png](code%20outputs/4.jpeg)
 
 #### **Core Concept: Majority Voting (Bagging)**

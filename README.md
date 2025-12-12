@@ -946,7 +946,7 @@ plt.show()
 ```
 
 
-[image-tag: code-generated-image-0-1765515759892366033]
+![image-tag: code-generated-image-0-1765515759892366033](code%20outputs/1.png)
 
 **🇪🇬 بالمصري:**
 
@@ -1025,7 +1025,7 @@ plt.grid(True)
 plt.show()
 ```
 
-[image-tag: code-generated-image-0-1765516053460880449]
+[image-tag: code-generated-image-0-1765516053460880449](code%20outputs/2.png)
 
 **🇪🇬 بالمصري:**
 
@@ -1117,7 +1117,7 @@ plt.grid(True)
 plt.show()
 ```
 
-[image-tag: code-generated-image-0-1765516255835646822]
+[image-tag: code-generated-image-0-1765516255835646822](code%20outputs/res.png)
 
 **🇪🇬 بالمصري:**
 
@@ -1240,7 +1240,7 @@ Random Forest is an **ensemble learning** method built on top of Decision Trees.
 
 
 <img width="1358" height="836" alt="image" src="https://github.com/user-attachments/assets/8ba8d58f-46c5-49e9-a43a-3a6c5b25fd8f" />
-![img.png](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSuuIUpjnpCkBoOlsQE63TGeglVGCRaAT1SEWuUv4RAFbpLEKjiODreluQorqwMR5jKXN2ilpVtMy_dKfEyJkHOhDMEHGA-A6dgP8svu1cKNzsGhQE)
+![img.png](code%20outputs/4.jpeg)
 
 #### **Core Concept: Majority Voting (Bagging)**
 
@@ -1435,47 +1435,7 @@ y_kmeans = kmeans_final.fit_predict(X)
 print(f"Data points clustered into {optimal_k} groups.")
 print(f"Sample Cluster Labels: {y_kmeans[:10]}")
 ```
-```python?code_reference&code_event_index=1
-from sklearn.cluster import KMeans
-from sklearn.datasets import make_blobs
-import matplotlib.pyplot as plt
-import numpy as np
-
-# 1. Create synthetic data (unlabeled)
-X, y = make_blobs(n_samples=300, centers=4, cluster_std=0.60, random_state=0)
-
-# 2. Apply Elbow Method to find optimal K
-inertia_values = []
-K_range = range(1, 11)
-
-for k in K_range:
-    # Set n_init='auto' to silence warnings in recent sklearn versions
-    kmeans = KMeans(n_clusters=k, random_state=42, n_init='auto')
-    kmeans.fit(X)
-    inertia_values.append(kmeans.inertia_)
-
-# 3. Plot the Elbow Curve
-plt.figure(figsize=(8, 5))
-plt.plot(K_range, inertia_values, marker='o', linestyle='--')
-plt.title('Elbow Method for Optimal K')
-plt.xlabel('Number of Clusters (K)')
-plt.ylabel('Inertia (WCSS)')
-plt.xticks(np.arange(1, 11, step=1))
-plt.grid(True)
-plt.savefig('elbow_method_plot.png')
-
-# 4. Final K-Means Model
-optimal_k = 4
-kmeans_final = KMeans(n_clusters=optimal_k, random_state=42, n_init='auto')
-y_kmeans = kmeans_final.fit_predict(X)
-
-print(f"Data points clustered into {optimal_k} groups.")
-print(f"Sample Cluster Labels: {y_kmeans[:10]}")
-
-```
-
-
-[image-tag: code-generated-image-0-1765516496478487289]
+![image-tag: code-generated-image-0-1765516496478487289](code%20outputs/3.png)
 
 **🇪🇬 بالمصري:**
 

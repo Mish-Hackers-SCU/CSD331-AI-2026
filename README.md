@@ -946,6 +946,8 @@ plt.show()
 ```
 
 **Output:**
+
+
 ![image-tag: code-generated-image-0-1765515759892366033](code%20outputs/1.png)
 
 **🇪🇬 بالمصري:**
@@ -1025,6 +1027,8 @@ plt.grid(True)
 plt.show()
 ```
 **Output:**
+
+
 ![image-tag: code-generated-image-0-1765516053460880449](code%20outputs/2.png)
 
 **🇪🇬 بالمصري:**
@@ -1117,6 +1121,8 @@ plt.grid(True)
 plt.show()
 ```
 **Output:**
+
+
 ![image-tag: code-generated-image-0-1765516255835646822](code%20outputs/res.png)
 
 **🇪🇬 بالمصري:**

@@ -2,7 +2,9 @@
 ------
 ![](msh_icon.png)
 
-#𝔇𝔢𝔰𝔱𝔯𝔬𝔶 𝔱𝔥𝔢 𝔑𝔬𝔯𝔪𝔞𝔩#
+# 𝔇𝔢𝔰𝔱𝔯𝔬𝔶 𝔱𝔥𝔢 𝔑𝔬𝔯𝔪𝔞𝔩 #
+
+to learn how to solve regression task, [click on me](https://cisuezedu.sharepoint.com/:b:/r/sites/ArtificialIntelligence_Dr_RehamAmin/Class%20Materials/Signed_30_11_2025DrReham_AI_Lec8_Supervised%20ML-images-0.pdf?csf=1&web=1&e=KGe5pF)
 ------
 ## 🧭 CSD331 AI Practical Guide
 
